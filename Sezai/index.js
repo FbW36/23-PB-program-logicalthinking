@@ -1,7 +1,7 @@
 
 
 //1.
-//compare 2 numbers and return the highest one
+// 2 numbers return the highest one
 
 //2. 
 //compare 2 numbers and if theyre equal return true, otherwise false
